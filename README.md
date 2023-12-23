@@ -7,3 +7,5 @@ Graph concepts have been used to represent an imaginary set of cities as vertice
 Dijkstra's Algorithm has been used to find the shortest path between two cities.
 
 This project was programmed using C++.
+
+Note: Refer doc for outputs.
